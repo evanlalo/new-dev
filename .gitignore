@@ -1,0 +1,5 @@
+# Our virtual environment info
+env
+
+# Our ennvironment info and secrets
+.env
